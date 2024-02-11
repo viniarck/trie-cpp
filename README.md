@@ -1,3 +1,3 @@
 ## trie-cpp
 
-C++ trie for ascii words
+C++ trie for indexing words by bytes
